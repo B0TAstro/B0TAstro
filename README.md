@@ -81,10 +81,6 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white&style=for-the-badge" height="25" alt="jetbrains logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="25" alt="pycharm logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=white&style=for-the-badge" height="25" alt="phpstorm logo"  />
-  <img width="5" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="25" alt="flutter logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" height="25" alt="raspberrypi logo"  />

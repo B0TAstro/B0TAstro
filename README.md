@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">😶‍🌫️ About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 Currently studying BUT MMI at Chambéry<br>🧑‍💻 Apprentice Full-Stack Developer at La Sasson<br>🎯 Goal: Gain as much knowledge and experience as possible… and maybe become a freelancer someday!<br>🎲 Fun fact: I’m passionate about F1, esports, and Japanese culture—and I can talk about them a lot!</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 Currently studying BUT MMI at Chambéry<br>🧑‍💻 Apprentice Full-Stack Developer at La Sasson<br>🎯 Goal : Gain as much knowledge and experience as possible… and maybe become a freelancer someday !<br>🎲 Fun fact : I’m passionate about F1, esports, and Japanese culture — and I can talk about them a lot !</p>
 
 ###
 
